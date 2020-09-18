@@ -1,3 +1,5 @@
+## [Live Demo](https://angrymiao.github.io/CyberBoardConfig/)
+
 ## Usage
 
 ### Direct `<script>` Include
